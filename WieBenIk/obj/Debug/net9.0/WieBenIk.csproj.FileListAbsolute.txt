@@ -1,0 +1,14 @@
+D:\Code\Algorythms\ZieScherp\WieBenIk\bin\Debug\net9.0\WieBenIk.exe
+D:\Code\Algorythms\ZieScherp\WieBenIk\bin\Debug\net9.0\WieBenIk.deps.json
+D:\Code\Algorythms\ZieScherp\WieBenIk\bin\Debug\net9.0\WieBenIk.runtimeconfig.json
+D:\Code\Algorythms\ZieScherp\WieBenIk\bin\Debug\net9.0\WieBenIk.dll
+D:\Code\Algorythms\ZieScherp\WieBenIk\bin\Debug\net9.0\WieBenIk.pdb
+D:\Code\Algorythms\ZieScherp\WieBenIk\obj\Debug\net9.0\WieBenIk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Algorythms\ZieScherp\WieBenIk\obj\Debug\net9.0\WieBenIk.AssemblyInfoInputs.cache
+D:\Code\Algorythms\ZieScherp\WieBenIk\obj\Debug\net9.0\WieBenIk.AssemblyInfo.cs
+D:\Code\Algorythms\ZieScherp\WieBenIk\obj\Debug\net9.0\WieBenIk.csproj.CoreCompileInputs.cache
+D:\Code\Algorythms\ZieScherp\WieBenIk\obj\Debug\net9.0\WieBenIk.dll
+D:\Code\Algorythms\ZieScherp\WieBenIk\obj\Debug\net9.0\refint\WieBenIk.dll
+D:\Code\Algorythms\ZieScherp\WieBenIk\obj\Debug\net9.0\WieBenIk.pdb
+D:\Code\Algorythms\ZieScherp\WieBenIk\obj\Debug\net9.0\WieBenIk.genruntimeconfig.cache
+D:\Code\Algorythms\ZieScherp\WieBenIk\obj\Debug\net9.0\ref\WieBenIk.dll

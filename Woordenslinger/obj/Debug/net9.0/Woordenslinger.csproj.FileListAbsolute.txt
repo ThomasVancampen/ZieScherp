@@ -1,0 +1,14 @@
+D:\Code\Algorythms\ZieScherp\Woordenslinger\bin\Debug\net9.0\Woordenslinger.exe
+D:\Code\Algorythms\ZieScherp\Woordenslinger\bin\Debug\net9.0\Woordenslinger.deps.json
+D:\Code\Algorythms\ZieScherp\Woordenslinger\bin\Debug\net9.0\Woordenslinger.runtimeconfig.json
+D:\Code\Algorythms\ZieScherp\Woordenslinger\bin\Debug\net9.0\Woordenslinger.dll
+D:\Code\Algorythms\ZieScherp\Woordenslinger\bin\Debug\net9.0\Woordenslinger.pdb
+D:\Code\Algorythms\ZieScherp\Woordenslinger\obj\Debug\net9.0\Woordenslinger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Algorythms\ZieScherp\Woordenslinger\obj\Debug\net9.0\Woordenslinger.AssemblyInfoInputs.cache
+D:\Code\Algorythms\ZieScherp\Woordenslinger\obj\Debug\net9.0\Woordenslinger.AssemblyInfo.cs
+D:\Code\Algorythms\ZieScherp\Woordenslinger\obj\Debug\net9.0\Woordenslinger.csproj.CoreCompileInputs.cache
+D:\Code\Algorythms\ZieScherp\Woordenslinger\obj\Debug\net9.0\Woordenslinger.dll
+D:\Code\Algorythms\ZieScherp\Woordenslinger\obj\Debug\net9.0\refint\Woordenslinger.dll
+D:\Code\Algorythms\ZieScherp\Woordenslinger\obj\Debug\net9.0\Woordenslinger.pdb
+D:\Code\Algorythms\ZieScherp\Woordenslinger\obj\Debug\net9.0\Woordenslinger.genruntimeconfig.cache
+D:\Code\Algorythms\ZieScherp\Woordenslinger\obj\Debug\net9.0\ref\Woordenslinger.dll

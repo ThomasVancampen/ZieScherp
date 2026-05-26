@@ -1,0 +1,14 @@
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\bin\Debug\net9.0\RegenboogTicket.exe
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\bin\Debug\net9.0\RegenboogTicket.deps.json
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\bin\Debug\net9.0\RegenboogTicket.runtimeconfig.json
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\bin\Debug\net9.0\RegenboogTicket.dll
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\bin\Debug\net9.0\RegenboogTicket.pdb
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\obj\Debug\net9.0\RegenboogTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\obj\Debug\net9.0\RegenboogTicket.AssemblyInfoInputs.cache
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\obj\Debug\net9.0\RegenboogTicket.AssemblyInfo.cs
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\obj\Debug\net9.0\RegenboogTicket.csproj.CoreCompileInputs.cache
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\obj\Debug\net9.0\RegenboogTicket.dll
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\obj\Debug\net9.0\refint\RegenboogTicket.dll
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\obj\Debug\net9.0\RegenboogTicket.pdb
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\obj\Debug\net9.0\RegenboogTicket.genruntimeconfig.cache
+D:\Code\Algorythms\ZieScherp\RegenboogTicket\obj\Debug\net9.0\ref\RegenboogTicket.dll

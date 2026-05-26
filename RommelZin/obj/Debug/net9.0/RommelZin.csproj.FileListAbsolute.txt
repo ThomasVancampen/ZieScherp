@@ -1,0 +1,14 @@
+D:\Code\Algorythms\ZieScherp\RommelZin\bin\Debug\net9.0\RommelZin.exe
+D:\Code\Algorythms\ZieScherp\RommelZin\bin\Debug\net9.0\RommelZin.deps.json
+D:\Code\Algorythms\ZieScherp\RommelZin\bin\Debug\net9.0\RommelZin.runtimeconfig.json
+D:\Code\Algorythms\ZieScherp\RommelZin\bin\Debug\net9.0\RommelZin.dll
+D:\Code\Algorythms\ZieScherp\RommelZin\bin\Debug\net9.0\RommelZin.pdb
+D:\Code\Algorythms\ZieScherp\RommelZin\obj\Debug\net9.0\RommelZin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Algorythms\ZieScherp\RommelZin\obj\Debug\net9.0\RommelZin.AssemblyInfoInputs.cache
+D:\Code\Algorythms\ZieScherp\RommelZin\obj\Debug\net9.0\RommelZin.AssemblyInfo.cs
+D:\Code\Algorythms\ZieScherp\RommelZin\obj\Debug\net9.0\RommelZin.csproj.CoreCompileInputs.cache
+D:\Code\Algorythms\ZieScherp\RommelZin\obj\Debug\net9.0\RommelZin.dll
+D:\Code\Algorythms\ZieScherp\RommelZin\obj\Debug\net9.0\refint\RommelZin.dll
+D:\Code\Algorythms\ZieScherp\RommelZin\obj\Debug\net9.0\RommelZin.pdb
+D:\Code\Algorythms\ZieScherp\RommelZin\obj\Debug\net9.0\RommelZin.genruntimeconfig.cache
+D:\Code\Algorythms\ZieScherp\RommelZin\obj\Debug\net9.0\ref\RommelZin.dll

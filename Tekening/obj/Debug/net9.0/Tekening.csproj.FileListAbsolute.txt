@@ -1,0 +1,14 @@
+D:\Code\Algorythms\ZieScherp\Tekening\bin\Debug\net9.0\Tekening.exe
+D:\Code\Algorythms\ZieScherp\Tekening\bin\Debug\net9.0\Tekening.deps.json
+D:\Code\Algorythms\ZieScherp\Tekening\bin\Debug\net9.0\Tekening.runtimeconfig.json
+D:\Code\Algorythms\ZieScherp\Tekening\bin\Debug\net9.0\Tekening.dll
+D:\Code\Algorythms\ZieScherp\Tekening\bin\Debug\net9.0\Tekening.pdb
+D:\Code\Algorythms\ZieScherp\Tekening\obj\Debug\net9.0\Tekening.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Algorythms\ZieScherp\Tekening\obj\Debug\net9.0\Tekening.AssemblyInfoInputs.cache
+D:\Code\Algorythms\ZieScherp\Tekening\obj\Debug\net9.0\Tekening.AssemblyInfo.cs
+D:\Code\Algorythms\ZieScherp\Tekening\obj\Debug\net9.0\Tekening.csproj.CoreCompileInputs.cache
+D:\Code\Algorythms\ZieScherp\Tekening\obj\Debug\net9.0\Tekening.dll
+D:\Code\Algorythms\ZieScherp\Tekening\obj\Debug\net9.0\refint\Tekening.dll
+D:\Code\Algorythms\ZieScherp\Tekening\obj\Debug\net9.0\Tekening.pdb
+D:\Code\Algorythms\ZieScherp\Tekening\obj\Debug\net9.0\Tekening.genruntimeconfig.cache
+D:\Code\Algorythms\ZieScherp\Tekening\obj\Debug\net9.0\ref\Tekening.dll

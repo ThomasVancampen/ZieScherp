@@ -1,0 +1,14 @@
+D:\Code\Algorythms\ZieScherp\ZieScherp\bin\Debug\net9.0\ZieScherp.exe
+D:\Code\Algorythms\ZieScherp\ZieScherp\bin\Debug\net9.0\ZieScherp.deps.json
+D:\Code\Algorythms\ZieScherp\ZieScherp\bin\Debug\net9.0\ZieScherp.runtimeconfig.json
+D:\Code\Algorythms\ZieScherp\ZieScherp\bin\Debug\net9.0\ZieScherp.dll
+D:\Code\Algorythms\ZieScherp\ZieScherp\bin\Debug\net9.0\ZieScherp.pdb
+D:\Code\Algorythms\ZieScherp\ZieScherp\obj\Debug\net9.0\ZieScherp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Algorythms\ZieScherp\ZieScherp\obj\Debug\net9.0\ZieScherp.AssemblyInfoInputs.cache
+D:\Code\Algorythms\ZieScherp\ZieScherp\obj\Debug\net9.0\ZieScherp.AssemblyInfo.cs
+D:\Code\Algorythms\ZieScherp\ZieScherp\obj\Debug\net9.0\ZieScherp.csproj.CoreCompileInputs.cache
+D:\Code\Algorythms\ZieScherp\ZieScherp\obj\Debug\net9.0\ZieScherp.dll
+D:\Code\Algorythms\ZieScherp\ZieScherp\obj\Debug\net9.0\refint\ZieScherp.dll
+D:\Code\Algorythms\ZieScherp\ZieScherp\obj\Debug\net9.0\ZieScherp.pdb
+D:\Code\Algorythms\ZieScherp\ZieScherp\obj\Debug\net9.0\ZieScherp.genruntimeconfig.cache
+D:\Code\Algorythms\ZieScherp\ZieScherp\obj\Debug\net9.0\ref\ZieScherp.dll
