@@ -1,0 +1,15 @@
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/bin/Debug/net10.0/TafelEnConsoleClear
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/bin/Debug/net10.0/TafelEnConsoleClear.deps.json
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/bin/Debug/net10.0/TafelEnConsoleClear.runtimeconfig.json
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/bin/Debug/net10.0/TafelEnConsoleClear.dll
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/bin/Debug/net10.0/TafelEnConsoleClear.pdb
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/TafelEnConsoleClear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/TafelEnConsoleClear.AssemblyInfoInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/TafelEnConsoleClear.AssemblyInfo.cs
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/TafelEnConsoleClear.csproj.CoreCompileInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/TafelEnConsoleClear.sourcelink.json
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/TafelEnConsoleClear.dll
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/refint/TafelEnConsoleClear.dll
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/TafelEnConsoleClear.pdb
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/TafelEnConsoleClear.genruntimeconfig.cache
+/Users/thomasvancampen/Code/ZieScherp/TafelEnConsoleClear/obj/Debug/net10.0/ref/TafelEnConsoleClear.dll

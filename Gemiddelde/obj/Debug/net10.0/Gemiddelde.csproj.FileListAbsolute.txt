@@ -1,0 +1,15 @@
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/bin/Debug/net10.0/Gemiddelde
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/bin/Debug/net10.0/Gemiddelde.deps.json
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/bin/Debug/net10.0/Gemiddelde.runtimeconfig.json
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/bin/Debug/net10.0/Gemiddelde.dll
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/bin/Debug/net10.0/Gemiddelde.pdb
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/Gemiddelde.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/Gemiddelde.AssemblyInfoInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/Gemiddelde.AssemblyInfo.cs
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/Gemiddelde.csproj.CoreCompileInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/Gemiddelde.sourcelink.json
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/Gemiddelde.dll
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/refint/Gemiddelde.dll
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/Gemiddelde.pdb
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/Gemiddelde.genruntimeconfig.cache
+/Users/thomasvancampen/Code/ZieScherp/Gemiddelde/obj/Debug/net10.0/ref/Gemiddelde.dll
