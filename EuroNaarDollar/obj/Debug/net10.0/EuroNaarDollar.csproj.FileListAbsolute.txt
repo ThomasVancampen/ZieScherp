@@ -1,0 +1,15 @@
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/bin/Debug/net10.0/EuroNaarDollar
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/bin/Debug/net10.0/EuroNaarDollar.deps.json
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/bin/Debug/net10.0/EuroNaarDollar.runtimeconfig.json
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/bin/Debug/net10.0/EuroNaarDollar.dll
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/bin/Debug/net10.0/EuroNaarDollar.pdb
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/EuroNaarDollar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/EuroNaarDollar.AssemblyInfoInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/EuroNaarDollar.AssemblyInfo.cs
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/EuroNaarDollar.csproj.CoreCompileInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/EuroNaarDollar.sourcelink.json
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/EuroNaarDollar.dll
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/refint/EuroNaarDollar.dll
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/EuroNaarDollar.pdb
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/EuroNaarDollar.genruntimeconfig.cache
+/Users/thomasvancampen/Code/ZieScherp/EuroNaarDollar/obj/Debug/net10.0/ref/EuroNaarDollar.dll

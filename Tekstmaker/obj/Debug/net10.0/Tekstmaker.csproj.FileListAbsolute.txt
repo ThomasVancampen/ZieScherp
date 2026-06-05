@@ -1,0 +1,15 @@
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/bin/Debug/net10.0/Tekstmaker
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/bin/Debug/net10.0/Tekstmaker.deps.json
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/bin/Debug/net10.0/Tekstmaker.runtimeconfig.json
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/bin/Debug/net10.0/Tekstmaker.dll
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/bin/Debug/net10.0/Tekstmaker.pdb
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/Tekstmaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/Tekstmaker.AssemblyInfoInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/Tekstmaker.AssemblyInfo.cs
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/Tekstmaker.csproj.CoreCompileInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/Tekstmaker.sourcelink.json
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/Tekstmaker.dll
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/refint/Tekstmaker.dll
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/Tekstmaker.pdb
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/Tekstmaker.genruntimeconfig.cache
+/Users/thomasvancampen/Code/ZieScherp/Tekstmaker/obj/Debug/net10.0/ref/Tekstmaker.dll

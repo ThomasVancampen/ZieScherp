@@ -1,0 +1,15 @@
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/bin/Debug/net10.0/GewichtInSpace
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/bin/Debug/net10.0/GewichtInSpace.deps.json
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/bin/Debug/net10.0/GewichtInSpace.runtimeconfig.json
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/bin/Debug/net10.0/GewichtInSpace.dll
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/bin/Debug/net10.0/GewichtInSpace.pdb
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/GewichtInSpace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/GewichtInSpace.AssemblyInfoInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/GewichtInSpace.AssemblyInfo.cs
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/GewichtInSpace.csproj.CoreCompileInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/GewichtInSpace.sourcelink.json
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/GewichtInSpace.dll
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/refint/GewichtInSpace.dll
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/GewichtInSpace.pdb
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/GewichtInSpace.genruntimeconfig.cache
+/Users/thomasvancampen/Code/ZieScherp/GewichtInSpace/obj/Debug/net10.0/ref/GewichtInSpace.dll

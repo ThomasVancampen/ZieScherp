@@ -1,0 +1,15 @@
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/bin/Debug/net10.0/KD-ratio
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/bin/Debug/net10.0/KD-ratio.deps.json
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/bin/Debug/net10.0/KD-ratio.runtimeconfig.json
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/bin/Debug/net10.0/KD-ratio.dll
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/bin/Debug/net10.0/KD-ratio.pdb
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/KD-ratio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/KD-ratio.AssemblyInfoInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/KD-ratio.AssemblyInfo.cs
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/KD-ratio.csproj.CoreCompileInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/KD-ratio.sourcelink.json
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/KD-ratio.dll
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/refint/KD-ratio.dll
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/KD-ratio.pdb
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/KD-ratio.genruntimeconfig.cache
+/Users/thomasvancampen/Code/ZieScherp/KD-ratio/obj/Debug/net10.0/ref/KD-ratio.dll

@@ -1,0 +1,15 @@
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/bin/Debug/net10.0/DeKassa
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/bin/Debug/net10.0/DeKassa.deps.json
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/bin/Debug/net10.0/DeKassa.runtimeconfig.json
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/bin/Debug/net10.0/DeKassa.dll
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/bin/Debug/net10.0/DeKassa.pdb
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/DeKassa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/DeKassa.AssemblyInfoInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/DeKassa.AssemblyInfo.cs
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/DeKassa.csproj.CoreCompileInputs.cache
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/DeKassa.sourcelink.json
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/DeKassa.dll
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/refint/DeKassa.dll
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/DeKassa.pdb
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/DeKassa.genruntimeconfig.cache
+/Users/thomasvancampen/Code/ZieScherp/DeKassa/obj/Debug/net10.0/ref/DeKassa.dll

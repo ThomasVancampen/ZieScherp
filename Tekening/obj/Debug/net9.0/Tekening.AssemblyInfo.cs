@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tekening")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adb450f17586bc283289064cd15d251fa6679bb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tekening")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tekening")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
